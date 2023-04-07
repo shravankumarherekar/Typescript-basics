@@ -1,0 +1,5 @@
+Hii this is new file
+
+git config --global user.email "shravankumar.herekar@gmail.com"
+
+git config --global user.name "shravankumarherekar"
