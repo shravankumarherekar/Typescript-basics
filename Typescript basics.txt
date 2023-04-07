@@ -1,0 +1,17 @@
+typescript takes file default as script to make them module write import/export at start
+
+module has own scope where script shares global scope
+
+whenever we do changes in tsc file it will refelct directly in js file this is how it works (ts to js transfile )
+
+tsc main --watch it will monitor the file 
+
+typescript let , const mostly used
+
+js only gobal scope,function scope
+
+--variable declarations
+
+let -can be done without intilazation
+const require intilization and cannot be reassign 
+
